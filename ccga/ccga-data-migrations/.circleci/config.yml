@@ -1,0 +1,29 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/python:latest
+    steps:
+      - checkout
+      - add_ssh_keys
+      - setup_remote_docker
+      - run:
+          name: Build the docker image
+          command: docker build -t ccga-data-migrations:latest .
+      - deploy:
+          name: Push to docker dev repository if MASTER
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ];
+              then
+                sudo pip install awscli --upgrade
+                aws ecr get-login --region ca-central-1 --no-include-email | bash -
+                docker tag ccga-data-migrations:latest 197509012559.dkr.ecr.ca-central-1.amazonaws.com/ccga-data-migrations:dev
+                docker push 197509012559.dkr.ecr.ca-central-1.amazonaws.com/ccga-data-migrations:dev
+                docker tag ccga-data-migrations:latest 197509012559.dkr.ecr.ca-central-1.amazonaws.com/ccga-data-migrations:dev-$CIRCLE_SHA1
+                docker push 197509012559.dkr.ecr.ca-central-1.amazonaws.com/ccga-data-migrations:dev-$CIRCLE_SHA1
+            fi
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build

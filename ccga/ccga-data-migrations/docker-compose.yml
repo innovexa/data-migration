@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  migration:
+    image: "197509012559.dkr.ecr.ca-central-1.amazonaws.com/ccga-data-migrations:dev"
+    environment:
+      DB_HOST: host
+      DB_USER: root
+    volumes:
+      - /migration/logs:/migration/logs
+
+
+volumes:
+  logs:
+    driver: local

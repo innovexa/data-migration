@@ -1,0 +1,425 @@
+{
+  "_index": "trainingcourse",
+  "_type": "doc",
+  "_id": "5c913a4f286534006d3abd58",
+  "_version": 2,
+  "found": true,
+  "_source": {
+    "name": "New test Course",
+    "active": "Yes",
+    "colorTag": "#f50606",
+    "description": "Some desc",
+    "workflow": "Training",
+    "courseConfig": {
+      "enableUnitAsset": true,
+      "enableMultiAsset": true,
+      "showAssetRate": true,
+      "showAssetCoxwain": true,
+      "showAssetLinkage": true,
+      "showParticipationLinkage": true,
+      "showAdditionalResources": true,
+      "showTimeCreditResource": true,
+      "enableTimeCreditAdj": true,
+      "showTimeCreditTotal": true,
+      "showPassFailOpt": true,
+      "hideClassStructure": false,
+      "timeCreditArr": {
+        "selectedType": [
+          {
+            "hours": "11",
+            "tType": {
+              "regionId": 7,
+              "name": "SAR Patrol",
+              "duration_seaTime": 0,
+              "_id": "5c740bb0c5de8c638df25eb1",
+              "type": "A",
+              "duration_trainingTime": 240
+            }
+          },
+          {
+            "hours": "12",
+            "tType": {
+              "regionId": 7,
+              "name": "Simulator Sessions",
+              "duration_seaTime": 0,
+              "_id": "5c740bd1c5de8c0535f25eba",
+              "type": "A",
+              "duration_trainingTime": 0
+            }
+          },
+          {
+            "hours": "13",
+            "tType": {
+              "regionId": 7,
+              "name": "Curriculum Development",
+              "duration_seaTime": 0,
+              "_id": "5c740c17c5de8c5261f25ec3",
+              "type": "A",
+              "duration_trainingTime": 18000
+            }
+          },
+          {
+            "hours": "14",
+            "tType": {
+              "regionId": 7,
+              "name": "Time Type 1",
+              "duration_seaTime": 8,
+              "_id": "5c82d470e411ce438d5d2d93",
+              "type": "A",
+              "duration_trainingTime": 9
+            }
+          }
+        ],
+        "participation": {
+          "Attend": [
+            {
+              "hours": "1",
+              "tType": {
+                "regionId": 7,
+                "name": "SAR Patrol",
+                "duration_seaTime": 0,
+                "_id": "5c740bb0c5de8c638df25eb1",
+                "type": "A",
+                "duration_trainingTime": 240
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Simulator Sessions",
+                "duration_seaTime": 0,
+                "_id": "5c740bd1c5de8c0535f25eba",
+                "type": "A",
+                "duration_trainingTime": 0
+              }
+            },
+            {
+              "hours": "11",
+              "tType": {
+                "regionId": 7,
+                "name": "Curriculum Development",
+                "duration_seaTime": 0,
+                "_id": "5c740c17c5de8c5261f25ec3",
+                "type": "A",
+                "duration_trainingTime": 18000
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Time Type 1",
+                "duration_seaTime": 8,
+                "_id": "5c82d470e411ce438d5d2d93",
+                "type": "A",
+                "duration_trainingTime": 9
+              }
+            }
+          ],
+          "Assist": [
+            {
+              "hours": "2",
+              "tType": {
+                "regionId": 7,
+                "name": "SAR Patrol",
+                "duration_seaTime": 0,
+                "_id": "5c740bb0c5de8c638df25eb1",
+                "type": "A",
+                "duration_trainingTime": 240
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Simulator Sessions",
+                "duration_seaTime": 0,
+                "_id": "5c740bd1c5de8c0535f25eba",
+                "type": "A",
+                "duration_trainingTime": 0
+              }
+            },
+            {
+              "hours": "22",
+              "tType": {
+                "regionId": 7,
+                "name": "Curriculum Development",
+                "duration_seaTime": 0,
+                "_id": "5c740c17c5de8c5261f25ec3",
+                "type": "A",
+                "duration_trainingTime": 18000
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Time Type 1",
+                "duration_seaTime": 8,
+                "_id": "5c82d470e411ce438d5d2d93",
+                "type": "A",
+                "duration_trainingTime": 9
+              }
+            }
+          ],
+          "Instruct": [
+            {
+              "hours": "3",
+              "tType": {
+                "regionId": 7,
+                "name": "SAR Patrol",
+                "duration_seaTime": 0,
+                "_id": "5c740bb0c5de8c638df25eb1",
+                "type": "A",
+                "duration_trainingTime": 240
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Simulator Sessions",
+                "duration_seaTime": 0,
+                "_id": "5c740bd1c5de8c0535f25eba",
+                "type": "A",
+                "duration_trainingTime": 0
+              }
+            },
+            {
+              "hours": "33",
+              "tType": {
+                "regionId": 7,
+                "name": "Curriculum Development",
+                "duration_seaTime": 0,
+                "_id": "5c740c17c5de8c5261f25ec3",
+                "type": "A",
+                "duration_trainingTime": 18000
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Time Type 1",
+                "duration_seaTime": 8,
+                "_id": "5c82d470e411ce438d5d2d93",
+                "type": "A",
+                "duration_trainingTime": 9
+              }
+            }
+          ]
+        },
+        "totalParticipation": {
+          "Attend": [
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "SAR Patrol",
+                "duration_seaTime": 0,
+                "_id": "5c740bb0c5de8c638df25eb1",
+                "type": "A",
+                "duration_trainingTime": 240
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Simulator Sessions",
+                "duration_seaTime": 0,
+                "_id": "5c740bd1c5de8c0535f25eba",
+                "type": "A",
+                "duration_trainingTime": 0
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Curriculum Development",
+                "duration_seaTime": 0,
+                "_id": "5c740c17c5de8c5261f25ec3",
+                "type": "A",
+                "duration_trainingTime": 18000
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Time Type 1",
+                "duration_seaTime": 8,
+                "_id": "5c82d470e411ce438d5d2d93",
+                "type": "A",
+                "duration_trainingTime": 9
+              }
+            }
+          ],
+          "Assist": [
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "SAR Patrol",
+                "duration_seaTime": 0,
+                "_id": "5c740bb0c5de8c638df25eb1",
+                "type": "A",
+                "duration_trainingTime": 240
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Simulator Sessions",
+                "duration_seaTime": 0,
+                "_id": "5c740bd1c5de8c0535f25eba",
+                "type": "A",
+                "duration_trainingTime": 0
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Curriculum Development",
+                "duration_seaTime": 0,
+                "_id": "5c740c17c5de8c5261f25ec3",
+                "type": "A",
+                "duration_trainingTime": 18000
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Time Type 1",
+                "duration_seaTime": 8,
+                "_id": "5c82d470e411ce438d5d2d93",
+                "type": "A",
+                "duration_trainingTime": 9
+              }
+            }
+          ],
+          "Instruct": [
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "SAR Patrol",
+                "duration_seaTime": 0,
+                "_id": "5c740bb0c5de8c638df25eb1",
+                "type": "A",
+                "duration_trainingTime": 240
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Simulator Sessions",
+                "duration_seaTime": 0,
+                "_id": "5c740bd1c5de8c0535f25eba",
+                "type": "A",
+                "duration_trainingTime": 0
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Curriculum Development",
+                "duration_seaTime": 0,
+                "_id": "5c740c17c5de8c5261f25ec3",
+                "type": "A",
+                "duration_trainingTime": 18000
+              }
+            },
+            {
+              "hours": 0,
+              "tType": {
+                "regionId": 7,
+                "name": "Time Type 1",
+                "duration_seaTime": 8,
+                "_id": "5c82d470e411ce438d5d2d93",
+                "type": "A",
+                "duration_trainingTime": 9
+              }
+            }
+          ]
+        }
+      },
+      "courseStructure": {
+        "instruction": "<p>Some test instruction in <strong>bold</strong> and <strong>italic</strong></p>"
+      }
+    },
+    "assocCertificates": [
+      {
+        "label": "MED A3",
+        "value": "5c8ac9a43c56de005427e0c6"
+      },
+      {
+        "label": "RCMP Course",
+        "value": "5c8ac9a13c56de005427e0bb"
+      },
+      {
+        "label": "OBS Trailer Course",
+        "value": "5c8ac9a33c56de005427e0c3"
+      },
+      {
+        "label": "GOC",
+        "value": "5c8ac9a93c56de005427e0de"
+      }
+    ],
+    "itemsAchieved": [
+      {
+        "values": [
+          {
+            "label": "8.2 Rescue and Recovery",
+            "value": "5c8acc9a3c56de005427e316"
+          },
+          {
+            "label": "9.3 Maintenance Log Keeping and Damage Reporting",
+            "value": "5c8acc9c3c56de005427e31d"
+          }
+        ],
+        "name": "Advanced Crew",
+        "id": "5c8aca593c56de005427e119"
+      },
+      {
+        "values": [
+          {
+            "label": "04.01 Search Planning",
+            "value": "5c8acca23c56de005427e338"
+          },
+          {
+            "label": "03.06 Electronic Navigation Systems Failure",
+            "value": "5c8acca23c56de005427e336"
+          },
+          {
+            "label": "05.09 Air Medevac and HELO Ops",
+            "value": "5c8acca53c56de005427e343"
+          }
+        ],
+        "name": "Coxswain",
+        "id": "5c8aca593c56de005427e11a"
+      }
+    ],
+    "multipleSubmission": "allowed",
+    "primaryRegionId": 7,
+    "formRefId": "5c913a4e286534006d3abd56",
+    "uid": "8688",
+    "unitId": 17,
+    "regionId": 8,
+    "issueType": "Training",
+    "formRef": "NewtestCourse-wVeTkWQs",
+    "dateCreated": "2019-03-19T14:51:58.377-04:00",
+    "id": "5c913a4f286534006d3abd58",
+    "formid": "5c420e2342accf0079e5df8b",
+    "modified": "2019-03-26T17:33:42+0000",
+    "created": "2019-03-19T18:51:59+0000",
+    "formName": "trainingcourse"
+  }
+}

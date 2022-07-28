@@ -1,0 +1,1686 @@
+{
+  "5_1": {
+    "value": "5ca29209bc3ed400738fa3c2",
+    "label": "01.1 Mission Tasking Pager &amp; Phone"
+  },
+  "5_2": {
+    "value": "5ca29209bc3ed400738fa3c3",
+    "label": "01.2 Briefing &amp; Crew Communications"
+  },
+  "5_3": {
+    "value": "5ca2920abc3ed400738fa3c4",
+    "label": "01.3 Primary Leadership &amp; Team Building"
+  },
+  "5_4": {
+    "value": "5ca2920abc3ed400738fa3c5",
+    "label": "04.1 Log Keeping &amp; Reporting"
+  },
+  "5_5": {
+    "value": "5ca2920abc3ed400738fa3c6",
+    "label": "11.2 Positive Control &amp; Situational Awareness"
+  },
+  "5_6": {
+    "value": "5ca2920abc3ed400738fa3c7",
+    "label": "05.1 Deck Safety"
+  },
+  "5_7": {
+    "value": "5ca2920bbc3ed400738fa3c8",
+    "label": "01.1 Crew Manual"
+  },
+  "5_9": {
+    "value": "5ca2920bbc3ed400738fa3c9",
+    "label": "01.3 Initial Orientation to Vessel &amp; Equipment"
+  },
+  "5_10": {
+    "value": "5ca2920bbc3ed400738fa3ca",
+    "label": "01.4 Knots"
+  },
+  "5_11": {
+    "value": "5ca2920bbc3ed400738fa3cb",
+    "label": "03.7 Emergency Response"
+  },
+  "5_12": {
+    "value": "5ca2920cbc3ed400738fa3cc",
+    "label": "04.0 Check Ride- Only to be carried out after all new crew sign offs have been completed."
+  },
+  "5_13": {
+    "value": "5ca2920cbc3ed400738fa3cd",
+    "label": "01.5 On Call"
+  },
+  "5_14": {
+    "value": "5ca2920cbc3ed400738fa3ce",
+    "label": "02.01 Floatation"
+  },
+  "5_15": {
+    "value": "5ca2920cbc3ed400738fa3cf",
+    "label": "02.02 Warmth"
+  },
+  "5_16": {
+    "value": "5ca2920dbc3ed400738fa3d0",
+    "label": "02.03 Protection"
+  },
+  "5_17": {
+    "value": "5ca2920dbc3ed400738fa3d1",
+    "label": "02.04 Visibility and Signalling"
+  },
+  "5_18": {
+    "value": "5ca2920dbc3ed400738fa3d2",
+    "label": "02.05 Cold Water Survival"
+  },
+  "5_19": {
+    "value": "5ca2920ebc3ed400738fa3d3",
+    "label": "02.01a Maintain PPE and Equipment"
+  },
+  "5_20": {
+    "value": "5ca2920ebc3ed400738fa3d4",
+    "label": "02.6 Self-Recovery"
+  },
+  "5_21": {
+    "value": "5ca2920ebc3ed400738fa3d5",
+    "label": "03.1 Area Familiarization"
+  },
+  "5_22": {
+    "value": "5ca2920ebc3ed400738fa3d6",
+    "label": "03.3 Pre-Departure Check and Green/Yellow/Red (GAR) risk assessment"
+  },
+  "5_23": {
+    "value": "5ca2920fbc3ed400738fa3d7",
+    "label": "03.4 Man Overboard"
+  },
+  "5_24": {
+    "value": "5ca2920fbc3ed400738fa3d8",
+    "label": "03.5 Sinking, Damage Control, &amp; Capsizing"
+  },
+  "5_25": {
+    "value": "5ca2920fbc3ed400738fa3d9",
+    "label": "02.02a Cold Water Immersion Survival"
+  },
+  "5_26": {
+    "value": "5ca2920fbc3ed400738fa3da",
+    "label": "03.6 Fire On Board Basics"
+  },
+  "5_27": {
+    "value": "5ca29210bc3ed400738fa3db",
+    "label": "02.03a Signalling a Distress"
+  },
+  "5_28": {
+    "value": "5ca29210bc3ed400738fa3dc",
+    "label": "03.01 Vessel Inspection and DI/WI Inspection"
+  },
+  "5_29": {
+    "value": "5ca29210bc3ed400738fa3dd",
+    "label": "03.02 Vessel Systems Maintenance"
+  },
+  "5_30": {
+    "value": "5ca29210bc3ed400738fa3de",
+    "label": "03.03 Fueling"
+  },
+  "5_31": {
+    "value": "5ca29211bc3ed400738fa3df",
+    "label": "04.01 SAR Communication System"
+  },
+  "5_32": {
+    "value": "5ca29211bc3ed400738fa3e0",
+    "label": "04.02 Operating the VHF Radio"
+  },
+  "5_33": {
+    "value": "5ca29211bc3ed400738fa3e1",
+    "label": "04.03 Electronic Emergency Signalling Systems"
+  },
+  "5_34": {
+    "value": "5ca29211bc3ed400738fa3e2",
+    "label": "04.04 Communication as a SRU and Keeping a Radio Log"
+  },
+  "5_35": {
+    "value": "5ca29212bc3ed400738fa3e3",
+    "label": "05.04 Knots and Lines"
+  },
+  "5_36": {
+    "value": "5ca29212bc3ed400738fa3e4",
+    "label": "05.1 Deck Safety"
+  },
+  "5_182": {
+    "value": "5ca29212bc3ed400738fa3e5",
+    "label": "05.01 Deck Safety"
+  },
+  "5_37": {
+    "value": "5ca29212bc3ed400738fa3e6",
+    "label": "05.05 Docking, Mooring and Securing a Vessel"
+  },
+  "5_183": {
+    "value": "5ca29212bc3ed400738fa3e7",
+    "label": "05.2 Vessel Gear and Tackle"
+  },
+  "5_38": {
+    "value": "5ca29213bc3ed400738fa3e8",
+    "label": "05.02 Anchoring"
+  },
+  "5_39": {
+    "value": "5ca29213bc3ed400738fa3e9",
+    "label": "05.03 Throwing a Line"
+  },
+  "5_40": {
+    "value": "5ca29213bc3ed400738fa3ea",
+    "label": "06.06 Vessel Characteristics and Hull Types"
+  },
+  "5_184": {
+    "value": "5ca29214bc3ed400738fa3eb",
+    "label": "06.2 Vessel Stability"
+  },
+  "5_185": {
+    "value": "5ca29214bc3ed400738fa3ec",
+    "label": "06.3 Heavy Weather Boat Handling"
+  },
+  "5_41": {
+    "value": "5ca29214bc3ed400738fa3ed",
+    "label": "06.03 Startup and Departure"
+  },
+  "5_42": {
+    "value": "5ca29214bc3ed400738fa3ee",
+    "label": "06.01 Manoeuvring and propulsion systems"
+  },
+  "5_187": {
+    "value": "5ca29215bc3ed400738fa3ef",
+    "label": "06.5 Give pre-departure brief"
+  },
+  "5_43": {
+    "value": "5ca29215bc3ed400738fa3f0",
+    "label": "06.04 Propulsion and Direction Single Engine/Twin Engines"
+  },
+  "5_44": {
+    "value": "5ca29215bc3ed400738fa3f1",
+    "label": "06.05 Docking"
+  },
+  "5_45": {
+    "value": "5ca29215bc3ed400738fa3f2",
+    "label": "06.02 Planing Trim Angle and Power Ratio"
+  },
+  "5_186": {
+    "value": "5ca29215bc3ed400738fa3f3",
+    "label": "06.4 Station Keeping and Boarding/Pacing"
+  },
+  "5_46": {
+    "value": "5ca29216bc3ed400738fa3f4",
+    "label": "07.01 Charts, Symbols and Nautical Publications"
+  },
+  "5_47": {
+    "value": "5ca29216bc3ed400738fa3f5",
+    "label": "07.02 Compass, Steering, and Lookout"
+  },
+  "5_48": {
+    "value": "5ca29216bc3ed400738fa3f6",
+    "label": "07.03 Lateral Buoyage System, Cardinal and Special Buoys"
+  },
+  "5_188": {
+    "value": "5ca29216bc3ed400738fa3f7",
+    "label": "07.1 Shallow Water and Unknown Shore Approach"
+  },
+  "5_49": {
+    "value": "5ca29217bc3ed400738fa3f8",
+    "label": "07.04 Cardinal Buoyage System and Special Buoys"
+  },
+  "5_50": {
+    "value": "5ca29217bc3ed400738fa3f9",
+    "label": "07.05 Aids to Navigation Light Characteristics and Fog Signals"
+  },
+  "5_51": {
+    "value": "5ca29217bc3ed400738fa3fa",
+    "label": "07.06 Tides and Weather"
+  },
+  "5_52": {
+    "value": "5ca29217bc3ed400738fa3fb",
+    "label": "07.07 Latitude and Longitude and Fixing a Position"
+  },
+  "5_53": {
+    "value": "5ca29218bc3ed400738fa3fc",
+    "label": "07.10 Fundamental Rules (Rules 1-18)"
+  },
+  "5_54": {
+    "value": "5ca29218bc3ed400738fa3fd",
+    "label": "07.12 Sound Signals (Rules 32-37)"
+  },
+  "5_55": {
+    "value": "5ca29218bc3ed400738fa3fe",
+    "label": "07.13 Day Shapes (Rules 21-31)"
+  },
+  "5_56": {
+    "value": "5ca29218bc3ed400738fa3ff",
+    "label": "07.15 Navigation Lights (Rules 20-31)"
+  },
+  "5_57": {
+    "value": "5ca29219bc3ed400738fa400",
+    "label": "07.11 Rules of the Road (Rules 11-19)"
+  },
+  "5_58": {
+    "value": "5ca29219bc3ed400738fa401",
+    "label": "07.14 Narrow Channels and Waterways (Rules 9-10)"
+  },
+  "5_59": {
+    "value": "5ca29219bc3ed400738fa402",
+    "label": "07.18 Radar- Fundamentals"
+  },
+  "5_60": {
+    "value": "5ca29219bc3ed400738fa403",
+    "label": "07.19 GPS/DGPS"
+  },
+  "5_61": {
+    "value": "5ca2921abc3ed400738fa404",
+    "label": "07.20 Electronic Chart Plotter"
+  },
+  "5_62": {
+    "value": "5ca2921abc3ed400738fa405",
+    "label": "07.21 Depth Sounder"
+  },
+  "5_63": {
+    "value": "5ca2921abc3ed400738fa406",
+    "label": "07.22 Basic Electronic Pilotage and Monitoring"
+  },
+  "5_64": {
+    "value": "5ca2921abc3ed400738fa407",
+    "label": "08.01 Towing Assessment and Communications"
+  },
+  "5_65": {
+    "value": "5ca2921bbc3ed400738fa408",
+    "label": "08.02 Towing Gear"
+  },
+  "5_66": {
+    "value": "5ca2921bbc3ed400738fa409",
+    "label": "08.03 Towing Setup/Approach and Passing the Line"
+  },
+  "5_67": {
+    "value": "5ca2921bbc3ed400738fa40a",
+    "label": "08.04 Tow Watch and Line Control"
+  },
+  "5_68": {
+    "value": "5ca2921bbc3ed400738fa40b",
+    "label": "08.05 Towing Alongside"
+  },
+  "5_69": {
+    "value": "5ca2921cbc3ed400738fa40c",
+    "label": "08.06 Towing Salvage"
+  },
+  "5_70": {
+    "value": "5ca2921cbc3ed400738fa40d",
+    "label": "08.07 Towing Emergencies"
+  },
+  "5_71": {
+    "value": "5ca2921cbc3ed400738fa40e",
+    "label": "09.01 Search Communications"
+  },
+  "5_72": {
+    "value": "5ca2921cbc3ed400738fa40f",
+    "label": "09.02 Night Search"
+  },
+  "5_73": {
+    "value": "5ca2921dbc3ed400738fa410",
+    "label": "09.03 Spotter Techniques"
+  },
+  "5_74": {
+    "value": "5ca2921dbc3ed400738fa411",
+    "label": "09.04 Reporting a Target"
+  },
+  "5_192": {
+    "value": "5ca2921dbc3ed400738fa412",
+    "label": "01.3 Primary Leadership &amp; Team Building"
+  },
+  "5_75": {
+    "value": "5ca2921dbc3ed400738fa413",
+    "label": "09.05 Radar Search"
+  },
+  "5_76": {
+    "value": "5ca2921dbc3ed400738fa414",
+    "label": "09.06 Vessel Operations for Search Patterns"
+  },
+  "5_77": {
+    "value": "5ca2921ebc3ed400738fa415",
+    "label": "09.07 Shoreline Search"
+  },
+  "5_78": {
+    "value": "5ca2921ebc3ed400738fa416",
+    "label": "10.01 SAP Assessment"
+  },
+  "5_79": {
+    "value": "5ca2921ebc3ed400738fa417",
+    "label": "10.02 Recovery - MOB/PIW"
+  },
+  "5_80": {
+    "value": "5ca2921fbc3ed400738fa418",
+    "label": "10.03 Treatment, Transport, and Transfer of Persons"
+  },
+  "5_81": {
+    "value": "5ca2921fbc3ed400738fa419",
+    "label": "10.04 Damage Control (EP)"
+  },
+  "5_189": {
+    "value": "5ca2921fbc3ed400738fa41a",
+    "label": "11.1 Meteorology - local area knowledge"
+  },
+  "5_82": {
+    "value": "5ca2921fbc3ed400738fa41b",
+    "label": "10.05 Vessel De-Watering"
+  },
+  "5_83": {
+    "value": "5ca29220bc3ed400738fa41c",
+    "label": "10.06 Damage Control Operations"
+  },
+  "5_84": {
+    "value": "5ca29220bc3ed400738fa41d",
+    "label": "10.07 Helicopter Operations"
+  },
+  "5_85": {
+    "value": "5ca29220bc3ed400738fa41e",
+    "label": "10.08 Boarding"
+  },
+  "5_86": {
+    "value": "5ca29220bc3ed400738fa41f",
+    "label": "01.2 Personal Safety"
+  },
+  "5_87": {
+    "value": "5ca29221bc3ed400738fa420",
+    "label": "06.1 Vessel Construction"
+  },
+  "5_88": {
+    "value": "5ca29221bc3ed400738fa421",
+    "label": "06.2 Vessel Stability"
+  },
+  "5_89": {
+    "value": "5ca29221bc3ed400738fa422",
+    "label": "05.2 Vessel Gear and Tackle"
+  },
+  "5_90": {
+    "value": "5ca29221bc3ed400738fa423",
+    "label": "05.3 Advanced Line Handling &amp; Knots"
+  },
+  "5_91": {
+    "value": "5ca29222bc3ed400738fa424",
+    "label": "06.3 Heavy Weather Boat Handling"
+  },
+  "5_92": {
+    "value": "5ca29222bc3ed400738fa425",
+    "label": "11.3 Launch and Recovery"
+  },
+  "5_93": {
+    "value": "5ca29222bc3ed400738fa426",
+    "label": "07.1 Shallow Water and Unknown Shore Approach"
+  },
+  "5_94": {
+    "value": "5ca29222bc3ed400738fa427",
+    "label": "06.4 Station Keeping and Boarding/Pacing"
+  },
+  "5_95": {
+    "value": "5ca29222bc3ed400738fa428",
+    "label": "06.6 Docking"
+  },
+  "5_96": {
+    "value": "5ca29223bc3ed400738fa429",
+    "label": "03.5 Fire/Boat Drills and Fire Fighting Appliances"
+  },
+  "5_97": {
+    "value": "5ca29223bc3ed400738fa42a",
+    "label": "04.2 Distress EPIRB and Calling GMDSS/DSC"
+  },
+  "5_98": {
+    "value": "5ca29223bc3ed400738fa42b",
+    "label": "03.6 Capsize and Re-Righting"
+  },
+  "5_99": {
+    "value": "5ca29223bc3ed400738fa42c",
+    "label": "10.1 Grounding and Damage Control"
+  },
+  "5_100": {
+    "value": "5ca29224bc3ed400738fa42d",
+    "label": "07.2 Applied Chartwork"
+  },
+  "5_101": {
+    "value": "5ca29224bc3ed400738fa42e",
+    "label": "07.3 Collision Regulations, Collision Avoidance and Restricted Visibility"
+  },
+  "5_102": {
+    "value": "5ca29224bc3ed400738fa42f",
+    "label": "07.4 Passage Planning and Conning"
+  },
+  "5_103": {
+    "value": "5ca29224bc3ed400738fa430",
+    "label": "07.5 Radar Navigation"
+  },
+  "5_191": {
+    "value": "5ca29225bc3ed400738fa431",
+    "label": "09.05 Radar Search"
+  },
+  "5_104": {
+    "value": "5ca29225bc3ed400738fa432",
+    "label": "07.6 Electronic Chart and GPS"
+  },
+  "5_190": {
+    "value": "5ca29225bc3ed400738fa433",
+    "label": "07.7 Navigation in Reduced Visibility"
+  },
+  "5_105": {
+    "value": "5ca29225bc3ed400738fa434",
+    "label": "11.1 Meteorology"
+  },
+  "5_106": {
+    "value": "5ca29226bc3ed400738fa435",
+    "label": "08.1 Tow Assessments"
+  },
+  "5_107": {
+    "value": "5ca29226bc3ed400738fa436",
+    "label": "08.2 Supervising Towing Operations"
+  },
+  "5_108": {
+    "value": "5ca29226bc3ed400738fa437",
+    "label": "08.3 Towing Safety"
+  },
+  "5_109": {
+    "value": "5ca29227bc3ed400738fa438",
+    "label": "06.5 Vessel Handling and Approaches"
+  },
+  "5_110": {
+    "value": "5ca29227bc3ed400738fa439",
+    "label": "09.1 Search Patterns"
+  },
+  "5_111": {
+    "value": "5ca29227bc3ed400738fa43a",
+    "label": "09.2 Night Search Procedures"
+  },
+  "5_112": {
+    "value": "5ca29227bc3ed400738fa43b",
+    "label": "04.3 SAR Communications and Log Work"
+  },
+  "5_113": {
+    "value": "5ca29228bc3ed400738fa43c",
+    "label": "10.2 Scene Assessment"
+  },
+  "5_114": {
+    "value": "5ca29228bc3ed400738fa43d",
+    "label": "10.3 Rescue and Recovery"
+  },
+  "5_115": {
+    "value": "5ca29228bc3ed400738fa43e",
+    "label": "10.4 Treatment, Transport and Transfer"
+  },
+  "5_116": {
+    "value": "5ca29229bc3ed400738fa43f",
+    "label": "10.5 Damage Control"
+  },
+  "5_117": {
+    "value": "5ca29229bc3ed400738fa440",
+    "label": "10.6 Major Rescue Operations"
+  },
+  "5_118": {
+    "value": "5ca29229bc3ed400738fa441",
+    "label": "01.4 Critical Incident Stress Awareness"
+  },
+  "5_119": {
+    "value": "5ca29229bc3ed400738fa442",
+    "label": "03.1 Emergency Repairs &amp; Trouble Shooting"
+  },
+  "5_120": {
+    "value": "5ca2922abc3ed400738fa443",
+    "label": "03.2 Routine Inspection &amp; Maintenance"
+  },
+  "5_121": {
+    "value": "5ca2922abc3ed400738fa444",
+    "label": "03.3 Damage and Incident Reporting / Log Keeping &amp; Reporting"
+  },
+  "5_122": {
+    "value": "5ca2922abc3ed400738fa445",
+    "label": "03.4 Engine Maintenance"
+  },
+  "5_123": {
+    "value": "5ca2922abc3ed400738fa446",
+    "label": "07.08 Drawing a Course Line"
+  },
+  "5_124": {
+    "value": "5ca2922abc3ed400738fa447",
+    "label": "07.09 Calculating Time, Speed, and Distance (ETA)"
+  },
+  "5_125": {
+    "value": "5ca2922bbc3ed400738fa448",
+    "label": "07.15 Navigation Lights - Special Working Vessels"
+  },
+  "5_126": {
+    "value": "5ca2922bbc3ed400738fa449",
+    "label": "07.16 Sound Signals - Special Working Vessels"
+  },
+  "5_127": {
+    "value": "5ca2922bbc3ed400738fa44a",
+    "label": "07.17 Narrow Channels and Waterways (Canadian Mods Rule 9)"
+  },
+  "5_128": {
+    "value": "5ca2922cbc3ed400738fa44b",
+    "label": "07.13 Day Shapes"
+  },
+  "5_129": {
+    "value": "5ca2922cbc3ed400738fa44c",
+    "label": "01.01 Problem Solving"
+  },
+  "5_130": {
+    "value": "5ca2922cbc3ed400738fa44d",
+    "label": "01.02 Communication"
+  },
+  "5_131": {
+    "value": "5ca2922dbc3ed400738fa44e",
+    "label": "01.03 Primary Leadership &amp; Team Building"
+  },
+  "5_132": {
+    "value": "5ca2922dbc3ed400738fa44f",
+    "label": "01.04 Training and Development"
+  },
+  "5_133": {
+    "value": "5ca2922dbc3ed400738fa450",
+    "label": "11.07 Safety Management"
+  },
+  "5_134": {
+    "value": "5ca2922dbc3ed400738fa451",
+    "label": "11.08 Leadership Principles"
+  },
+  "5_135": {
+    "value": "5ca2922ebc3ed400738fa452",
+    "label": "11.09 Leadership Styles"
+  },
+  "5_136": {
+    "value": "5ca2922ebc3ed400738fa453",
+    "label": "11.10 Mentoring and Coaching"
+  },
+  "5_137": {
+    "value": "5ca2922ebc3ed400738fa454",
+    "label": "11.13 Problem solving -  SAR Algorithm and SAP"
+  },
+  "5_138": {
+    "value": "5ca2922ebc3ed400738fa455",
+    "label": "11.12 RCM SAR Ethics and Ethos"
+  },
+  "5_139": {
+    "value": "5ca2922fbc3ed400738fa456",
+    "label": "06.01 Boat Handling Instruction"
+  },
+  "5_140": {
+    "value": "5ca2922fbc3ed400738fa457",
+    "label": "11.01 Control of Vessel"
+  },
+  "5_141": {
+    "value": "5ca2922fbc3ed400738fa458",
+    "label": "07.01 Regulations &amp; Publications"
+  },
+  "5_142": {
+    "value": "5ca2922fbc3ed400738fa459",
+    "label": "07.02 Navigation in Reduced Visibility"
+  },
+  "5_143": {
+    "value": "5ca29230bc3ed400738fa45a",
+    "label": "07.04 Navigation and Chartwork"
+  },
+  "5_144": {
+    "value": "5ca29230bc3ed400738fa45b",
+    "label": "07.05 Passage Planning"
+  },
+  "5_145": {
+    "value": "5ca29230bc3ed400738fa45c",
+    "label": "07.06 Confined Water Operation"
+  },
+  "5_146": {
+    "value": "5ca29230bc3ed400738fa45d",
+    "label": "07.07 Manual Navigation"
+  },
+  "5_147": {
+    "value": "5ca29231bc3ed400738fa45e",
+    "label": "07.08 Training Navigation"
+  },
+  "5_148": {
+    "value": "5ca29231bc3ed400738fa45f",
+    "label": "09.01 Search Planning &amp; Exercise"
+  },
+  "5_149": {
+    "value": "5ca29231bc3ed400738fa460",
+    "label": "09.02 Search Execution"
+  },
+  "5_150": {
+    "value": "5ca29231bc3ed400738fa461",
+    "label": "09.03 Coordination of Multiple Surface Units"
+  },
+  "5_151": {
+    "value": "5ca29232bc3ed400738fa462",
+    "label": "11.02 Conducting Rescue Training Drills"
+  },
+  "5_152": {
+    "value": "5ca29232bc3ed400738fa463",
+    "label": "10.02 Multiple Casualties and Major Incidents"
+  },
+  "5_153": {
+    "value": "5ca29232bc3ed400738fa464",
+    "label": "10.03 Approaching a Vessel on Fire"
+  },
+  "5_154": {
+    "value": "5ca29232bc3ed400738fa465",
+    "label": "10.04 Medical Evacuation"
+  },
+  "5_155": {
+    "value": "5ca29233bc3ed400738fa466",
+    "label": "10.05 Damage Control, Capsized Vessels and Grounding"
+  },
+  "5_156": {
+    "value": "5ca29233bc3ed400738fa467",
+    "label": "01.05 Critical Incident Stress Awareness and Diffusing"
+  },
+  "5_157": {
+    "value": "5ca29233bc3ed400738fa468",
+    "label": "10.10 Casualty Extraction and Shore Line Operations"
+  },
+  "5_158": {
+    "value": "5ca29233bc3ed400738fa469",
+    "label": "04.08 Survival Craft, SART,GMDSS"
+  },
+  "5_159": {
+    "value": "5ca29234bc3ed400738fa46a",
+    "label": "10.11 Medical Evacuation by Helicopter"
+  },
+  "5_160": {
+    "value": "5ca29234bc3ed400738fa46b",
+    "label": "08.01 Towing Operations"
+  },
+  "5_161": {
+    "value": "5ca29234bc3ed400738fa46c",
+    "label": "08.02 Towing Safety"
+  },
+  "5_162": {
+    "value": "5ca29235bc3ed400738fa46d",
+    "label": "08.03 Teaching Towing Techniques"
+  },
+  "5_163": {
+    "value": "5ca29235bc3ed400738fa46e",
+    "label": "11.03 Station Standard Operating Procedures"
+  },
+  "5_164": {
+    "value": "5ca29235bc3ed400738fa46f",
+    "label": "11.05 RCM-SAR Operations Policy"
+  },
+  "5_165": {
+    "value": "5ca29235bc3ed400738fa470",
+    "label": "11.06 Administrative Reporting"
+  },
+  "5_166": {
+    "value": "5ca29236bc3ed400738fa471",
+    "label": "11.04 Training Administration and Performance Evaluation"
+  },
+  "5_167": {
+    "value": "5ca29236bc3ed400738fa472",
+    "label": "ARTE Course"
+  },
+  "5_168": {
+    "value": "5ca29236bc3ed400738fa473",
+    "label": "12.01 Water Jet Boat Standard Operating Procedures"
+  },
+  "5_169": {
+    "value": "5ca29236bc3ed400738fa474",
+    "label": "12.02 Water Jet Boat Systems"
+  },
+  "5_170": {
+    "value": "5ca29237bc3ed400738fa475",
+    "label": "12.03 Water Jet Boat Operation"
+  },
+  "5_171": {
+    "value": "5ca29237bc3ed400738fa476",
+    "label": "12.04 Water Jet Boat Training and Evaluation"
+  },
+  "5_176": {
+    "value": "5ca29237bc3ed400738fa477",
+    "label": "00.0 New crewmembers must not attend any on-water sessions until items 01.1 through 03.7 have been completed."
+  },
+  "5_177": {
+    "value": "5ca29237bc3ed400738fa478",
+    "label": "12.04a Water Jet Boat Training and Evaluation"
+  },
+  "5_180": {
+    "value": "5ca29238bc3ed400738fa479",
+    "label": "01.0 Fitness test/PFD competency"
+  },
+  "5_181": {
+    "value": "5ca29238bc3ed400738fa47a",
+    "label": "01.01 RCM SAR Policy Manual"
+  },
+  "4_12": {
+    "value": "5ca29238bc3ed400738fa47b",
+    "label": "04.01 RHIOT"
+  },
+  "4_14": {
+    "value": "5ca29238bc3ed400738fa47c",
+    "label": "02.07 RÃ¨glement sur les abordages"
+  },
+  "4_15": {
+    "value": "5ca29239bc3ed400738fa47d",
+    "label": "02.09 Exercice de recherche de nuit"
+  },
+  "4_16": {
+    "value": "5ca29239bc3ed400738fa47e",
+    "label": "03.01 RHIOT"
+  },
+  "4_17": {
+    "value": "5ca29239bc3ed400738fa47f",
+    "label": "03.02 Exercice SAR 1"
+  },
+  "4_18": {
+    "value": "5ca29239bc3ed400738fa480",
+    "label": "02.05 Cold Water Survival"
+  },
+  "4_19": {
+    "value": "5ca2923abc3ed400738fa481",
+    "label": "02.06 Maintain Gear"
+  },
+  "4_20": {
+    "value": "5ca2923abc3ed400738fa482",
+    "label": "02.07 Self-Recovery"
+  },
+  "4_21": {
+    "value": "5ca2923abc3ed400738fa483",
+    "label": "02.10 Notions de coordonnateur sur les lieux"
+  },
+  "4_22": {
+    "value": "5ca2923abc3ed400738fa484",
+    "label": "03.03 Exercice SAR 2"
+  },
+  "4_129": {
+    "value": "5ca2923bbc3ed400738fa485",
+    "label": "01.01 ModalitÃ© dÂ´intervention"
+  },
+  "4_130": {
+    "value": "5ca2923bbc3ed400738fa486",
+    "label": "01.02 Ãquipement de sauvetage et immersion en eau froide"
+  },
+  "4_131": {
+    "value": "5ca2923bbc3ed400738fa487",
+    "label": "01.02 VÃ©rifications dÂ´avant dÃ©part et urgence Ã  bord"
+  },
+  "4_132": {
+    "value": "5ca2923bbc3ed400738fa488",
+    "label": "01.03 Matelotage"
+  },
+  "4_133": {
+    "value": "5ca2923cbc3ed400738fa489",
+    "label": "02.01 Carte marine en contexte SAR"
+  },
+  "4_134": {
+    "value": "5ca2923cbc3ed400738fa48a",
+    "label": "02.02 Techniques de recherche (thÃ©orie)"
+  },
+  "4_135": {
+    "value": "5ca2923cbc3ed400738fa48b",
+    "label": "02.03 Technique de remorquage + pratique"
+  },
+  "4_136": {
+    "value": "5ca2923cbc3ed400738fa48c",
+    "label": "01.03a Feux, extincteurs et piÃ¨ces pyrotechniques"
+  },
+  "4_137": {
+    "value": "5ca2923dbc3ed400738fa48d",
+    "label": "02.05 Sauvetage (RÃ©cup. MOB et Transport de victimes)"
+  },
+  "4_138": {
+    "value": "5ca2923dbc3ed400738fa48e",
+    "label": "02.06 Sauvetage de jour"
+  },
+  "4_139": {
+    "value": "5ca2923dbc3ed400738fa48f",
+    "label": "03.05 Stress post traumatique, rÃ¨glement de conflits"
+  },
+  "4_140": {
+    "value": "5ca2923dbc3ed400738fa490",
+    "label": "02.08 Exercice de recherche de jour (pratique)"
+  },
+  "4_141": {
+    "value": "5ca2923ebc3ed400738fa491",
+    "label": "02.11 GPS lors de missions SAR"
+  },
+  "4_142": {
+    "value": "5ca2923ebc3ed400738fa492",
+    "label": "02.12 MÃ©tÃ©o en contexte SAR"
+  },
+  "4_143": {
+    "value": "5ca2923ebc3ed400738fa493",
+    "label": "03.04 Perfectionnement en premiers soins"
+  },
+  "4_169": {
+    "value": "5ca2923ebc3ed400738fa494",
+    "label": "Formateur"
+  },
+  "4_170": {
+    "value": "5ca2923ebc3ed400738fa495",
+    "label": "01.04 Cartes Marines #1"
+  },
+  "4_171": {
+    "value": "5ca2923fbc3ed400738fa496",
+    "label": "00.01 Formation GISAR - Pour les Instructeurs"
+  },
+  "4_172": {
+    "value": "5ca2923fbc3ed400738fa497",
+    "label": "00.02 Formation GISAR - Pour les membres"
+  },
+  "4_173": {
+    "value": "5ca2923fbc3ed400738fa498",
+    "label": "00.00 Instructeur"
+  },
+  "4_174": {
+    "value": "5ca2923fbc3ed400738fa499",
+    "label": "03.06 ActivitÃ©s diverses"
+  },
+  "4_175": {
+    "value": "5ca29240bc3ed400738fa49a",
+    "label": "00.03 Manuel de rÃ©fÃ©rence des commandants"
+  },
+  "4_176": {
+    "value": "5ca29240bc3ed400738fa49b",
+    "label": "01.05 Introduction Ã  lÂ´organisation"
+  },
+  "4_177": {
+    "value": "5ca29240bc3ed400738fa49c",
+    "label": "01.06 CompÃ©tence de conducteur dÂ´embarcation"
+  },
+  "4_178": {
+    "value": "5ca29241bc3ed400738fa49d",
+    "label": "01.07 Certificat restreint dÂ´opÃ©rateur radio VHF marin"
+  },
+  "4_179": {
+    "value": "5ca29241bc3ed400738fa49e",
+    "label": "00.04 Premiers soins Ã©lÃ©mentaire en mer avec RCR/DEA"
+  },
+  "4_180": {
+    "value": "5ca29241bc3ed400738fa49f",
+    "label": "01.09 Requalification Premiers soins Ã©lÃ©mentaire en mer avec RCR/DEA"
+  },
+  "4_181": {
+    "value": "5ca29241bc3ed400738fa4a0",
+    "label": "Revision gÃ©nÃ©rale - Sauveteur 1"
+  },
+  "4_182": {
+    "value": "5ca29242bc3ed400738fa4a1",
+    "label": "VÃ©rification des connaissances - Sauveteur 1"
+  },
+  "4_183": {
+    "value": "5ca29242bc3ed400738fa4a2",
+    "label": "01.05 Remorquage/navigation de nuit (ThÃ©orie)"
+  },
+  "4_184": {
+    "value": "5ca29242bc3ed400738fa4a3",
+    "label": "00.06 Introduction Ã  l&apos;organisation"
+  },
+  "4_185": {
+    "value": "5ca29242bc3ed400738fa4a4",
+    "label": "SVOP Phase 1"
+  },
+  "4_186": {
+    "value": "5ca29243bc3ed400738fa4a5",
+    "label": "SVOP Phase 2"
+  },
+  "4_187": {
+    "value": "5ca29243bc3ed400738fa4a6",
+    "label": "SVOP GCC"
+  },
+  "6_14": {
+    "value": "5ca29243bc3ed400738fa4a7",
+    "label": "02.07 Collision Regulations"
+  },
+  "6_15": {
+    "value": "5ca29243bc3ed400738fa4a8",
+    "label": "02.09 Night Search Exercise"
+  },
+  "6_16": {
+    "value": "5ca29243bc3ed400738fa4a9",
+    "label": "03.01 SAR mission in development"
+  },
+  "6_17": {
+    "value": "5ca29244bc3ed400738fa4aa",
+    "label": "03.05 Exercise SAR 1"
+  },
+  "6_21": {
+    "value": "5ca29244bc3ed400738fa4ab",
+    "label": "03.02 Coordinator on site"
+  },
+  "6_22": {
+    "value": "5ca29244bc3ed400738fa4ac",
+    "label": "03.06 Exercise SAR 2"
+  },
+  "6_129": {
+    "value": "5ca29244bc3ed400738fa4ad",
+    "label": "01.01 Intervention Model"
+  },
+  "6_130": {
+    "value": "5ca29245bc3ed400738fa4ae",
+    "label": "01.02 Rescue equipment and immersion in cold water"
+  },
+  "6_131": {
+    "value": "5ca29245bc3ed400738fa4af",
+    "label": "01.03 Checks, departure, and before board emergency"
+  },
+  "6_132": {
+    "value": "5ca29245bc3ed400738fa4b0",
+    "label": "01.04 Seamanship"
+  },
+  "6_133": {
+    "value": "5ca29245bc3ed400738fa4b1",
+    "label": "02.01 Map search and rescue exercises"
+  },
+  "6_134": {
+    "value": "5ca29246bc3ed400738fa4b2",
+    "label": "02.02 Search and Tracking Techniques"
+  },
+  "6_135": {
+    "value": "5ca29246bc3ed400738fa4b3",
+    "label": "02.03 Tow Technique + practice"
+  },
+  "6_136": {
+    "value": "5ca29246bc3ed400738fa4b4",
+    "label": "02.04 Lights, pyrotechnics and fire extinguishers"
+  },
+  "6_137": {
+    "value": "5ca29246bc3ed400738fa4b5",
+    "label": "02.05 Transporting victims"
+  },
+  "6_138": {
+    "value": "5ca29247bc3ed400738fa4b6",
+    "label": "02.06 Day Rescue"
+  },
+  "6_139": {
+    "value": "5ca29247bc3ed400738fa4b7",
+    "label": "02.07 Post Traumatic Stress and Conflict Resolution"
+  },
+  "6_140": {
+    "value": "5ca29247bc3ed400738fa4b8",
+    "label": "02.08 Day Search Exercise"
+  },
+  "6_141": {
+    "value": "5ca29247bc3ed400738fa4b9",
+    "label": "03.03 GPS during SAR missions"
+  },
+  "6_142": {
+    "value": "5ca29248bc3ed400738fa4ba",
+    "label": "03.04 Weather context SAR"
+  },
+  "6_143": {
+    "value": "5ca29248bc3ed400738fa4bb",
+    "label": "03.07 Improvement in First Aid"
+  },
+  "6_169": {
+    "value": "5ca29248bc3ed400738fa4bc",
+    "label": "Information"
+  },
+  "6_170": {
+    "value": "5ca29248bc3ed400738fa4bd",
+    "label": "01.05 Marine Charts #1"
+  },
+  "6_171": {
+    "value": "5ca29249bc3ed400738fa4be",
+    "label": "00.01 Training GISAR - For trainers"
+  },
+  "6_172": {
+    "value": "5ca29249bc3ed400738fa4bf",
+    "label": "00.02 Training GISAR - For members"
+  },
+  "7_1": {
+    "value": "5ca29249bc3ed400738fa4c0",
+    "label": "1.1 Mission Tasking Pager &amp; Phone"
+  },
+  "7_2": {
+    "value": "5ca29249bc3ed400738fa4c1",
+    "label": "1.2 Briefing &amp; Crew Communications"
+  },
+  "7_3": {
+    "value": "5ca2924abc3ed400738fa4c2",
+    "label": "1.3 Primary Leadership &amp; Team Building"
+  },
+  "7_4": {
+    "value": "5ca2924abc3ed400738fa4c3",
+    "label": "1.4 Log Keeping &amp; Reporting"
+  },
+  "7_5": {
+    "value": "5ca2924abc3ed400738fa4c4",
+    "label": "1.5 Positive Control &amp; Situational Awareness"
+  },
+  "7_6": {
+    "value": "5ca2924abc3ed400738fa4c5",
+    "label": "2.1 Deck Safety"
+  },
+  "7_7": {
+    "value": "5ca2924abc3ed400738fa4c6",
+    "label": "1.1 Unit Assignments &amp; Pre-Reading"
+  },
+  "7_9": {
+    "value": "5ca2924bbc3ed400738fa4c7",
+    "label": "1.3 Initial Orientation to Vessel &amp; Equipment"
+  },
+  "7_10": {
+    "value": "5ca2924bbc3ed400738fa4c8",
+    "label": "1.4 Check Ride"
+  },
+  "7_11": {
+    "value": "5ca2924bbc3ed400738fa4c9",
+    "label": "1.5 Emergency Response"
+  },
+  "7_12": {
+    "value": "5ca2924bbc3ed400738fa4ca",
+    "label": "1.6 Introductory Seamanship"
+  },
+  "7_13": {
+    "value": "5ca2924cbc3ed400738fa4cb",
+    "label": "1.7 On Call"
+  },
+  "7_14": {
+    "value": "5ca2924cbc3ed400738fa4cc",
+    "label": "02.01 Flotation"
+  },
+  "7_15": {
+    "value": "5ca2924cbc3ed400738fa4cd",
+    "label": "02.02 Warmth"
+  },
+  "7_16": {
+    "value": "5ca2924cbc3ed400738fa4ce",
+    "label": "02.03 Protection"
+  },
+  "7_17": {
+    "value": "5ca2924dbc3ed400738fa4cf",
+    "label": "02.04 Visibility amd Signalling"
+  },
+  "7_18": {
+    "value": "5ca2924dbc3ed400738fa4d0",
+    "label": "02.05 Cold Water Survival"
+  },
+  "7_19": {
+    "value": "5ca2924dbc3ed400738fa4d1",
+    "label": "02.06 Maintain Gear"
+  },
+  "7_20": {
+    "value": "5ca2924dbc3ed400738fa4d2",
+    "label": "02.07 Self-Recovery"
+  },
+  "7_21": {
+    "value": "5ca2924ebc3ed400738fa4d3",
+    "label": "03.01 Briefing"
+  },
+  "7_22": {
+    "value": "5ca2924ebc3ed400738fa4d4",
+    "label": "03.02 Pre-Departure Check"
+  },
+  "7_23": {
+    "value": "5ca2924ebc3ed400738fa4d5",
+    "label": "03.03 Crew Overboard"
+  },
+  "7_24": {
+    "value": "5ca2924ebc3ed400738fa4d6",
+    "label": "03.04 Sinking, Damage Control, &amp; Capsizing"
+  },
+  "7_25": {
+    "value": "5ca2924fbc3ed400738fa4d7",
+    "label": "03.05 Cold Water Immersion Survival"
+  },
+  "7_26": {
+    "value": "5ca2924fbc3ed400738fa4d8",
+    "label": "03.06 Fire On Board"
+  },
+  "7_27": {
+    "value": "5ca2924fbc3ed400738fa4d9",
+    "label": "03.07 Signalling a Distress"
+  },
+  "7_28": {
+    "value": "5ca2924fbc3ed400738fa4da",
+    "label": "03.08 Vessel Inspection"
+  },
+  "7_29": {
+    "value": "5ca29250bc3ed400738fa4db",
+    "label": "03.09 Vessel Systems Maintenance"
+  },
+  "7_30": {
+    "value": "5ca29250bc3ed400738fa4dc",
+    "label": "03.10 Fueling"
+  },
+  "7_31": {
+    "value": "5ca29250bc3ed400738fa4dd",
+    "label": "04.01 SAR Communication System"
+  },
+  "7_32": {
+    "value": "5ca29250bc3ed400738fa4de",
+    "label": "04.02 Operating the VHF Radio"
+  },
+  "7_33": {
+    "value": "5ca29251bc3ed400738fa4df",
+    "label": "04.03 Electronic Emergency Signalling Systems"
+  },
+  "7_34": {
+    "value": "5ca29251bc3ed400738fa4e0",
+    "label": "04.04 Communication as a SRU and Keeping a Radio Log"
+  },
+  "7_35": {
+    "value": "5ca29251bc3ed400738fa4e1",
+    "label": "05.01 Knots and Lines"
+  },
+  "7_36": {
+    "value": "5ca29251bc3ed400738fa4e2",
+    "label": "05.02 Deck Safety and Lines under Load"
+  },
+  "7_37": {
+    "value": "5ca29251bc3ed400738fa4e3",
+    "label": "05.03 Mooring and Securing a Vessel"
+  },
+  "7_38": {
+    "value": "5ca29252bc3ed400738fa4e4",
+    "label": "05.04 Anchoring"
+  },
+  "7_39": {
+    "value": "5ca29252bc3ed400738fa4e5",
+    "label": "05.05 Throwing a Line"
+  },
+  "7_40": {
+    "value": "5ca29252bc3ed400738fa4e6",
+    "label": "06.01 Vessel Characteristics and Hull Types"
+  },
+  "7_41": {
+    "value": "5ca29252bc3ed400738fa4e7",
+    "label": "06.02 Startup and Departure"
+  },
+  "7_42": {
+    "value": "5ca29253bc3ed400738fa4e8",
+    "label": "06.03 Manoeuvring"
+  },
+  "7_43": {
+    "value": "5ca29253bc3ed400738fa4e9",
+    "label": "06.04 Propulsion and Direction Single Engine/Twin Engines"
+  },
+  "7_44": {
+    "value": "5ca29253bc3ed400738fa4ea",
+    "label": "06.05 Docking"
+  },
+  "7_45": {
+    "value": "5ca29253bc3ed400738fa4eb",
+    "label": "06.06 Planing Trim Angle and Power Ratio"
+  },
+  "7_46": {
+    "value": "5ca29254bc3ed400738fa4ec",
+    "label": "07.a01 Charts, Symbols and Nautical Publications"
+  },
+  "7_47": {
+    "value": "5ca29254bc3ed400738fa4ed",
+    "label": "07.a02 Compass, Steering, and Lookout"
+  },
+  "7_48": {
+    "value": "5ca29254bc3ed400738fa4ee",
+    "label": "07.a03 Lateral Buoyage System"
+  },
+  "7_49": {
+    "value": "5ca29254bc3ed400738fa4ef",
+    "label": "07.a04 Cardinal Buoyage System and Special Buoys"
+  },
+  "7_50": {
+    "value": "5ca29255bc3ed400738fa4f0",
+    "label": "07.a05 Aids to Navigation Light Characteristics and Fog Signals"
+  },
+  "7_51": {
+    "value": "5ca29255bc3ed400738fa4f1",
+    "label": "07.a06 Tides and Weather"
+  },
+  "7_52": {
+    "value": "5ca29255bc3ed400738fa4f2",
+    "label": "07.a07 Latitude and Longitude and Fixing a Position"
+  },
+  "7_53": {
+    "value": "5ca29255bc3ed400738fa4f3",
+    "label": "07.b01 Fundamental Rules (Rules 1-18)"
+  },
+  "7_54": {
+    "value": "5ca29256bc3ed400738fa4f4",
+    "label": "07.b02 Sound Signals (Rules 32-37)"
+  },
+  "7_55": {
+    "value": "5ca29256bc3ed400738fa4f5",
+    "label": "07.b03 Day Shapes (Rules 21-31)"
+  },
+  "7_56": {
+    "value": "5ca29256bc3ed400738fa4f6",
+    "label": "07.b04 Navigation Lights (Rules 20-31)"
+  },
+  "7_57": {
+    "value": "5ca29256bc3ed400738fa4f7",
+    "label": "07.b05 Rules of the Road (Rules 11-19)"
+  },
+  "7_58": {
+    "value": "5ca29257bc3ed400738fa4f8",
+    "label": "07.b06 Narrow Channels and Waterways (Rules 9-10)"
+  },
+  "7_59": {
+    "value": "5ca29257bc3ed400738fa4f9",
+    "label": "07.c01-03 Radar"
+  },
+  "7_60": {
+    "value": "5ca29257bc3ed400738fa4fa",
+    "label": "07.c04 GPS/DGPS"
+  },
+  "7_61": {
+    "value": "5ca29257bc3ed400738fa4fb",
+    "label": "07.c05 Electronic Chart Plotter"
+  },
+  "7_62": {
+    "value": "5ca29258bc3ed400738fa4fc",
+    "label": "07.c06 Depth Sounder"
+  },
+  "7_63": {
+    "value": "5ca29258bc3ed400738fa4fd",
+    "label": "07.c07 Basic Electronic Pilotage and Monitoring"
+  },
+  "7_64": {
+    "value": "5ca29258bc3ed400738fa4fe",
+    "label": "08.01 Towing Assessment and Communications"
+  },
+  "7_65": {
+    "value": "5ca29258bc3ed400738fa4ff",
+    "label": "08.02 Towing Gear"
+  },
+  "7_66": {
+    "value": "5ca29259bc3ed400738fa500",
+    "label": "08.03 Towing Setup/Approach and Passing the Line"
+  },
+  "7_67": {
+    "value": "5ca29259bc3ed400738fa501",
+    "label": "08.04 Tow Watch and Line Control"
+  },
+  "7_68": {
+    "value": "5ca29259bc3ed400738fa502",
+    "label": "08.05 Towing Alongside"
+  },
+  "7_69": {
+    "value": "5ca29259bc3ed400738fa503",
+    "label": "08.05 Towing Salvage"
+  },
+  "7_70": {
+    "value": "5ca2925abc3ed400738fa504",
+    "label": "08.07 Towing Emergencies"
+  },
+  "7_71": {
+    "value": "5ca2925abc3ed400738fa505",
+    "label": "09.01 Search Communications"
+  },
+  "7_72": {
+    "value": "5ca2925abc3ed400738fa506",
+    "label": "09.02 Night Search"
+  },
+  "7_73": {
+    "value": "5ca2925abc3ed400738fa507",
+    "label": "09.03 Spotter Techniques"
+  },
+  "7_74": {
+    "value": "5ca2925abc3ed400738fa508",
+    "label": "09.04 Reporting a Target"
+  },
+  "7_75": {
+    "value": "5ca2925bbc3ed400738fa509",
+    "label": "09.05 Radar Search"
+  },
+  "7_76": {
+    "value": "5ca2925bbc3ed400738fa50a",
+    "label": "09.06 Vessel Operations for Search Patterns"
+  },
+  "7_77": {
+    "value": "5ca2925bbc3ed400738fa50b",
+    "label": "09.07 Shoreline Search"
+  },
+  "7_78": {
+    "value": "5ca2925bbc3ed400738fa50c",
+    "label": "10.01 SAP Assessment"
+  },
+  "7_79": {
+    "value": "5ca2925cbc3ed400738fa50d",
+    "label": "10.02 Recovery"
+  },
+  "7_80": {
+    "value": "5ca2925cbc3ed400738fa50e",
+    "label": "10.03 Treatment, Transport, and Transfer of Persons"
+  },
+  "7_81": {
+    "value": "5ca2925cbc3ed400738fa50f",
+    "label": "10.04 Fire Fighting"
+  },
+  "7_82": {
+    "value": "5ca2925cbc3ed400738fa510",
+    "label": "10.05 Vessel De-Watering"
+  },
+  "7_83": {
+    "value": "5ca2925dbc3ed400738fa511",
+    "label": "10.06 Damage Control Operations"
+  },
+  "7_84": {
+    "value": "5ca2925dbc3ed400738fa512",
+    "label": "10.07 Helicopter Operations"
+  },
+  "7_85": {
+    "value": "5ca2925dbc3ed400738fa513",
+    "label": "10.08 Boarding"
+  },
+  "7_86": {
+    "value": "5ca2925dbc3ed400738fa514",
+    "label": "1.2 Personal Safety"
+  },
+  "7_87": {
+    "value": "5ca2925ebc3ed400738fa515",
+    "label": "2.2 Vessel Construction"
+  },
+  "7_88": {
+    "value": "5ca2925ebc3ed400738fa516",
+    "label": "2.3 Vessel Stability"
+  },
+  "7_89": {
+    "value": "5ca2925ebc3ed400738fa517",
+    "label": "2.4 Vessel Gear and Tackle"
+  },
+  "7_90": {
+    "value": "5ca2925ebc3ed400738fa518",
+    "label": "2.5 Advanced Line Handling &amp; Knots"
+  },
+  "7_91": {
+    "value": "5ca2925fbc3ed400738fa519",
+    "label": "3.1 Heavy Weather Boat Handling"
+  },
+  "7_92": {
+    "value": "5ca2925fbc3ed400738fa51a",
+    "label": "3.2 Launch and Recovery"
+  },
+  "7_93": {
+    "value": "5ca2925fbc3ed400738fa51b",
+    "label": "3.3 Shallow Water and Unknown Shore Approach"
+  },
+  "7_94": {
+    "value": "5ca2925fbc3ed400738fa51c",
+    "label": "3.4 Station Keeping and Boarding/Pacing"
+  },
+  "7_95": {
+    "value": "5ca29260bc3ed400738fa51d",
+    "label": "3.5 Docking"
+  },
+  "7_96": {
+    "value": "5ca29260bc3ed400738fa51e",
+    "label": "4.1 Fire/Boat Drills and Fire Fighting Appliances"
+  },
+  "7_97": {
+    "value": "5ca29260bc3ed400738fa51f",
+    "label": "4.2 Distress and Callling GMDSS/DSC"
+  },
+  "7_98": {
+    "value": "5ca29260bc3ed400738fa520",
+    "label": "4.3 Capsize and Re-Righting"
+  },
+  "7_99": {
+    "value": "5ca29261bc3ed400738fa521",
+    "label": "4.4 Grounding and Damage Control"
+  },
+  "7_100": {
+    "value": "5ca29261bc3ed400738fa522",
+    "label": "5.1 Chartwork Intermediate"
+  },
+  "7_101": {
+    "value": "5ca29261bc3ed400738fa523",
+    "label": "5.2 Collision Regulations and Collison Avoidance"
+  },
+  "7_102": {
+    "value": "5ca29261bc3ed400738fa524",
+    "label": "5.3 Passage Planning and Conning"
+  },
+  "7_103": {
+    "value": "5ca29261bc3ed400738fa525",
+    "label": "5.4 Radar Navigation"
+  },
+  "7_104": {
+    "value": "5ca29262bc3ed400738fa526",
+    "label": "5.5 Electronic Chart and GPS"
+  },
+  "7_105": {
+    "value": "5ca29262bc3ed400738fa527",
+    "label": "5.6 Meteorology"
+  },
+  "7_106": {
+    "value": "5ca29262bc3ed400738fa528",
+    "label": "6.1 Tow Assessments"
+  },
+  "7_107": {
+    "value": "5ca29262bc3ed400738fa529",
+    "label": "6.2 Supervising Towing Operations"
+  },
+  "7_108": {
+    "value": "5ca29263bc3ed400738fa52a",
+    "label": "6.3 Towing Safety"
+  },
+  "7_109": {
+    "value": "5ca29263bc3ed400738fa52b",
+    "label": "6.4 Vessel Handling and Approaches"
+  },
+  "7_110": {
+    "value": "5ca29263bc3ed400738fa52c",
+    "label": "7.1 Search Patterns"
+  },
+  "7_111": {
+    "value": "5ca29263bc3ed400738fa52d",
+    "label": "7.2 Night Search Procedures"
+  },
+  "7_112": {
+    "value": "5ca29264bc3ed400738fa52e",
+    "label": "7.3 SAR Communication &amp; Log Work"
+  },
+  "7_113": {
+    "value": "5ca29264bc3ed400738fa52f",
+    "label": "8.1  Scene Assessment"
+  },
+  "7_114": {
+    "value": "5ca29264bc3ed400738fa530",
+    "label": "8.2 Rescue and Recovery"
+  },
+  "7_115": {
+    "value": "5ca29264bc3ed400738fa531",
+    "label": "8.3 Treatment, Transport and Transfer"
+  },
+  "7_116": {
+    "value": "5ca29265bc3ed400738fa532",
+    "label": "8.4 Damage Control"
+  },
+  "7_117": {
+    "value": "5ca29265bc3ed400738fa533",
+    "label": "8.5 Major Rescue Operations"
+  },
+  "7_118": {
+    "value": "5ca29265bc3ed400738fa534",
+    "label": "8.6 Critical Incident Stress (CIS) Awareness"
+  },
+  "7_119": {
+    "value": "5ca29265bc3ed400738fa535",
+    "label": "9.1 Emergency Repairs &amp; Trouble Shooting"
+  },
+  "7_120": {
+    "value": "5ca29266bc3ed400738fa536",
+    "label": "9.2 Routine Inspection &amp; Maintenance"
+  },
+  "7_121": {
+    "value": "5ca29266bc3ed400738fa537",
+    "label": "9.3 Maintenance Log Keeping and Damage Reporting"
+  },
+  "7_122": {
+    "value": "5ca29266bc3ed400738fa538",
+    "label": "9.4 Engine Maintenance"
+  },
+  "7_123": {
+    "value": "5ca29266bc3ed400738fa539",
+    "label": "07.a08 Drawing a Course Line"
+  },
+  "7_124": {
+    "value": "5ca29267bc3ed400738fa53a",
+    "label": "07.a09 Calculating Time, Speed, and Distance (ETA)"
+  },
+  "7_125": {
+    "value": "5ca29267bc3ed400738fa53b",
+    "label": "07.b07 Navigation Lights - Special Working Vessels"
+  },
+  "7_126": {
+    "value": "5ca29267bc3ed400738fa53c",
+    "label": "07.b08 Sound Signals - Special Working Vessels"
+  },
+  "7_127": {
+    "value": "5ca29267bc3ed400738fa53d",
+    "label": "07.b09 Narrow Channels and Waterways (Canadian Mods Rule 9)"
+  },
+  "7_128": {
+    "value": "5ca29267bc3ed400738fa53e",
+    "label": "07.b10 Day Shapes"
+  },
+  "7_129": {
+    "value": "5ca29268bc3ed400738fa53f",
+    "label": "01.01 Problem Analysis and Solution Generation"
+  },
+  "7_130": {
+    "value": "5ca29268bc3ed400738fa540",
+    "label": "01.02 Communication"
+  },
+  "7_131": {
+    "value": "5ca29268bc3ed400738fa541",
+    "label": "01.03 Team Coordination"
+  },
+  "7_132": {
+    "value": "5ca29269bc3ed400738fa542",
+    "label": "01.04 Training and Development"
+  },
+  "7_133": {
+    "value": "5ca29269bc3ed400738fa543",
+    "label": "01.05 Safety Management"
+  },
+  "7_134": {
+    "value": "5ca29269bc3ed400738fa544",
+    "label": "01.06 Enthusiasm/Optimism"
+  },
+  "7_135": {
+    "value": "5ca29269bc3ed400738fa545",
+    "label": "01.07 Critical Reflection and Growth"
+  },
+  "7_136": {
+    "value": "5ca2926abc3ed400738fa546",
+    "label": "01.08 Modeling, Conduct and Deportment"
+  },
+  "7_137": {
+    "value": "5ca2926abc3ed400738fa547",
+    "label": "01.09 Integrity and Ethical Foundation"
+  },
+  "7_138": {
+    "value": "5ca2926abc3ed400738fa548",
+    "label": "01.10 Loyalty and Commitment"
+  },
+  "7_139": {
+    "value": "5ca2926abc3ed400738fa549",
+    "label": "02.01 Boat Handling Instruction"
+  },
+  "7_140": {
+    "value": "5ca2926bbc3ed400738fa54a",
+    "label": "02.02 Positive Control Vessel"
+  },
+  "7_141": {
+    "value": "5ca2926bbc3ed400738fa54b",
+    "label": "03.01 Regulations &amp; Publications"
+  },
+  "7_142": {
+    "value": "5ca2926bbc3ed400738fa54c",
+    "label": "03.02 Collision Avoidance in Reduced Visibility"
+  },
+  "7_143": {
+    "value": "5ca2926bbc3ed400738fa54d",
+    "label": "03.03 Advanced Chartwork"
+  },
+  "7_144": {
+    "value": "5ca2926bbc3ed400738fa54e",
+    "label": "03.04 Voyage Passage Planning"
+  },
+  "7_145": {
+    "value": "5ca2926cbc3ed400738fa54f",
+    "label": "03.05 Confined Water Operation"
+  },
+  "7_146": {
+    "value": "5ca2926cbc3ed400738fa550",
+    "label": "03.06 Electronic Navigation Systems Failure"
+  },
+  "7_147": {
+    "value": "5ca2926cbc3ed400738fa551",
+    "label": "03.07 Training Navigation"
+  },
+  "7_148": {
+    "value": "5ca2926dbc3ed400738fa552",
+    "label": "04.01 Search Planning"
+  },
+  "7_149": {
+    "value": "5ca2926dbc3ed400738fa553",
+    "label": "04.02 Search Execution"
+  },
+  "7_150": {
+    "value": "5ca2926dbc3ed400738fa554",
+    "label": "04.03 Coordination of Mutiple Surface Units"
+  },
+  "7_151": {
+    "value": "5ca2926dbc3ed400738fa555",
+    "label": "05.01 Conducting Rescue Training Drills"
+  },
+  "7_152": {
+    "value": "5ca2926ebc3ed400738fa556",
+    "label": "05.02 Multiple Casualites and Major Incidents"
+  },
+  "7_153": {
+    "value": "5ca2926ebc3ed400738fa557",
+    "label": "05.03 Approaching a Vessel on Fire"
+  },
+  "7_154": {
+    "value": "5ca2926ebc3ed400738fa558",
+    "label": "05.04 Medevac"
+  },
+  "7_155": {
+    "value": "5ca2926ebc3ed400738fa559",
+    "label": "05.05 Damage Control, Capsized Vessels and Grounding"
+  },
+  "7_156": {
+    "value": "5ca2926fbc3ed400738fa55a",
+    "label": "05.06 Critical Incident Stress (CIS) Awareness and Activation (Diffusing)"
+  },
+  "7_157": {
+    "value": "5ca2926fbc3ed400738fa55b",
+    "label": "05.07 Casualty Extraction and Shore Line Operations"
+  },
+  "7_158": {
+    "value": "5ca2926fbc3ed400738fa55c",
+    "label": "05.08 Liferafts, Survival Craft, SART,GMDSS"
+  },
+  "7_159": {
+    "value": "5ca2926fbc3ed400738fa55d",
+    "label": "05.09 Air Medevac and HELO Ops"
+  },
+  "7_160": {
+    "value": "5ca2926fbc3ed400738fa55e",
+    "label": "06.01 Positive Control Towing"
+  },
+  "7_161": {
+    "value": "5ca29270bc3ed400738fa55f",
+    "label": "06.02 Towing Safety"
+  },
+  "7_162": {
+    "value": "5ca29270bc3ed400738fa560",
+    "label": "06.03 Teaching Towing Techniques"
+  },
+  "7_163": {
+    "value": "5ca29270bc3ed400738fa561",
+    "label": "07.01 Unit Standard Operating Procedures"
+  },
+  "7_164": {
+    "value": "5ca29270bc3ed400738fa562",
+    "label": "07.02 CGA Operations Policy"
+  },
+  "7_165": {
+    "value": "5ca29271bc3ed400738fa563",
+    "label": "07.03 Adminstrative Reporting"
+  },
+  "7_166": {
+    "value": "5ca29271bc3ed400738fa564",
+    "label": "07.04 Training Administration and Performance Evaluation"
+  },
+  "7_167": {
+    "value": "5ca29271bc3ed400738fa565",
+    "label": "ATRE Course"
+  },
+  "7_168": {
+    "value": "5ca29271bc3ed400738fa566",
+    "label": "TBD"
+  }
+}

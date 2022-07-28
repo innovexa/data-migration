@@ -1,0 +1,24 @@
+{
+  "name": "ccga-data-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innovexa/ccga-data-migration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innovexa/ccga-data-migration/issues"
+  },
+  "homepage": "https://github.com/innovexa/ccga-data-migration#readme",
+  "dependencies": {
+    "date-fns": "^2.10.0",
+    "dotenv": "^8.2.0",
+    "simple-node-logger": "18.12.22"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "csvtojson": "^2.0.8",
+    "dotenv": "^7.0.0",
+    "elasticsearch": "^15.4.1",
+    "email-alerts": "^2.2.3",
+    "locutus": "^2.0.10",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "moment": "^2.24.0",
+    "mongodb": "^3.1.13",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "random": "^2.1.1",
+    "randomcolor": "^0.5.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "shortid": "^2.2.14",
+    "simple-node-logger": "^18.12.22",
+    "sync-request": "^6.1.0",
+    "uniqid": "^5.0.3",
+    "utf8": "^3.0.0",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoshen/innovexa-migration-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guoshen/innovexa-migration-scripts/issues"
+  },
+  "homepage": "https://github.com/guoshen/innovexa-migration-scripts#readme"
+}

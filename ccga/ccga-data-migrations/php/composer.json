@@ -1,0 +1,10 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "joshcam/mysqli-database-class": "^2.9",
+        "fightbulc/moment": "^1.28",
+        "elasticsearch/elasticsearch": "6.0",
+        "mpetrovich/dash": "^2.1",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elasticDumpCert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "elasticsearch": "^16.7.2",
+    "locutus": "^2.0.14",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "shortid": "^2.2.16",
+    "simple-node-logger": "^18.12.24",
+    "sync-request": "^6.1.0",
+    "utf8": "^3.0.0"
+  }
+}

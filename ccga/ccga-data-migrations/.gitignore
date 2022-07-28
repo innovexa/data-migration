@@ -1,0 +1,10 @@
+node_modules/
+migration/logs/
+.env
+
+logs/*
+
+php/vendor/*
+
+!logs/.gitkeep
+!php/vendor/autoload.php

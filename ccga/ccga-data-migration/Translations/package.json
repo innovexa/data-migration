@@ -1,0 +1,23 @@
+{
+  "description": "",
+  "main": "trans-category.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node trans-category.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mkamaal/translation-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mkamaal/translation-sync/issues"
+  },
+  "homepage": "https://github.com/Mkamaal/translation-sync#readme",
+  "dependencies": {
+    "lodash": "^4.17.19",
+    "mysql": "^2.18.1",
+    "sync-request": "^6.1.0"
+  }
+}

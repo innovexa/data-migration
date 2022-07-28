@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.idea
+training-level-dict.json
+training-levels.json
+training-type-dict.json
+training-certs-dict.json
+training-certs.json
+.env
